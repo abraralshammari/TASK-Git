@@ -29,9 +29,3 @@ Here's how to fix it:
 Then do the last step you were doing in the task.
 
 Then you might be asked to login to your github account. When you enter your password, it won't display anything on the screen, just keep typing and hit Enter.
-
-test 1
-test 2
-test 3
-
-abrar
